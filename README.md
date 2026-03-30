@@ -63,7 +63,7 @@ Flodo AI/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/26atharvsjadhav/Frido-AI.git
+git clone https://github.com/26atharvsjadhav/Frido-AI-Task-Management-System
 cd "Flodo AI"
 ```
 
